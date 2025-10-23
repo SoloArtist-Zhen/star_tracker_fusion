@@ -22,7 +22,7 @@ Outputs:
 - 模拟星场和具有给定视场的移动摄像机。
 - 从三维单位向量生成带噪声的二维星体测量值。
 - 通过对锚点三元组进行三角不变匹配，实现**迷失空间 (LIS) 识别（小实验）**。
-- 使用**Wahba (SVD)**估计姿态。
+- 使用Wahba (SVD)估计姿态。
 - 通过**MEKF-lite**（仅偏置滤波器）与合成陀螺仪融合，进行时间平滑。
 - 保存图表：带 ID 的天空投影、姿态误差曲线、时间曲线和噪声灵敏度。<img width="960" height="720" alt="scene_step0" src="https://github.com/user-attachments/assets/9c64ca68-833a-4990-8053-981b29a2960d" />
 <img width="884" height="544" alt="noise_sweep" src="https://github.com/user-attachments/assets/bd112702-ea99-4512-9945-a362838b9cfd" />

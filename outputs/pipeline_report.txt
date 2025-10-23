@@ -1,0 +1,3 @@
+Frames processed: 400
+Final bias estimate (rad/s): [1.6804  0.75594 1.17404]
+Final attitude error (deg): 20.0345

@@ -16,6 +16,7 @@ Outputs:
 - `outputs/attitude_error.png` : time series of attitude error (deg)
 - `outputs/noise_sweep.png`   : effect of pixel noise on attitude error
 - `outputs/pipeline_report.txt` : quick metrics dump
+  
 星跟踪器-惯性融合（开放可复现流程）
 目的：演示一个**最小、独立**的航天器姿态估计流程：
 - 模拟星场和具有给定视场的移动摄像机。
